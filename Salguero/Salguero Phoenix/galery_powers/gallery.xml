@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<simpleviewergallery maxImageWidth="480" maxImageHeight="480" textColor="0x666666" frameColor="0x666666" frameWidth="5" stagePadding="25" navPadding="25" thumbnailColumns="2" thumbnailRows="2" navPosition="left" vAlign="center" hAlign="center" title="" enableRightClickOpen="true" backgroundImagePath="" imagePath="" thumbPath="">
+
+<image>
+	<filename>01.jpg</filename>
+	<caption></caption>
+	</image>
+<image>
+	<filename>02.jpg</filename>
+	<caption></caption>
+	</image>
+
+<image>
+	<filename>03.jpg</filename>
+	<caption></caption>
+	</image>
+
+<image>
+	<filename>04.jpg</filename>
+	<caption></caption>
+	</image>
+
+<image>
+	<filename>05.jpg</filename>
+	<caption></caption>
+	</image>
+</simpleviewergallery>

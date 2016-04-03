@@ -77,8 +77,26 @@ ul.list-2 li a:hover {text-decoration:none;}
 header{width:100%; background:#1c1c1c;}
 
 h1 {display:inline-block; z-index:111; float:left; padding:27px 0 0 21px;}
-header p {float:right; width:230px; overflow:hidden; font:16px/20px Tahoma, Geneva, sans-serif; color:#c6c6ce; padding:27px 0 27px 0; }
-header p>span {display:block; color:#fff; font-size:25px; line-height:30px; margin-top:6px;letter-spacing:-1px; }
+header p {
+	float:right; 
+	width:277px; 
+	overflow:hidden; 
+	font:16px/20px 
+	Tahoma, Geneva, 
+	sans-serif; 
+	color:#c6c6ce; 
+	padding:27px 0 27px 0;
+	text-align: right;
+}
+header p>span {
+	display:block; 
+	color:#fff; 
+	font-size:25px; 
+	line-height:30px; 
+	margin-top:6px;
+	letter-spacing:-1px;
+	text-align: right;
+}
 
 nav {display:block; z-index:1111; position:relative; background:url(../images/header.jpg) 0 bottom repeat-x; }
 
@@ -90,7 +108,10 @@ ul.menu li a { font:16px/20px Tahoma, Geneva, sans-serif; color:#000; display:bl
 ul.menu li:hover, ul.menu li.current {}
 ul.menu li:hover a.home, ul.menu li.current a.home {background-position:right 0;}
 ul.menu li:hover a.home img, ul.menu li.current a.home img {display:none;}
-ul.menu li a:hover , ul.menu li.current a {color:#0fc6ee; text-shadow:#68dcf6 0 0 5px;}
+ul.menu li a:hover , ul.menu li.current a {
+	color:#CC0000; 
+	text-shadow:#DE1C1C 0 0 5px;
+}
 
 
 /*********************************content*************************************/

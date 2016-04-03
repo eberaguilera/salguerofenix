@@ -48,7 +48,7 @@ $(function () {
   <header>
     <div class="main wrap">
       <h1><a href="index.php"><img src="images/logo.png" alt=""></a></h1>
-      <p>8901 Marmora, Glasgow <span>8 (800) 552 5975</span></p>
+      <p><span>(011) 4624-2292 <br>(011) 1559524845</span>phoenixysalguero@yahoo.com.ar</p>
     </div>
     <nav>
     <!--
@@ -171,7 +171,7 @@ $(function () {
         <a href="#" class="button-2">Read More</a> </div>
     </div>
   </section>
-  <footer>Car Repair &copy; 2045 | <a href="#">Privacy Policy</a> | Design by: <a href="http://www.templatemonster.com/">TemplateMonster.com</a></footer>
+  <footer>Salguero & Fénix &copy; 2016 | <a href="#">Privacy Policy</a> | Design by: <a href="http://www.templatemonster.com/">TemplateMonster.com</a></footer>
 </div>
 </body>
 </html>
