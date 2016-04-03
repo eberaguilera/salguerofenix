@@ -35,6 +35,7 @@
         <li><a href="index.php" class="home"><img src="images/home.jpg" alt=""></a></li>
         <li><a href="quienes_somos.php">Quienes Somos</a></li>
         <li><a href="novedades.php">Novedades</a></li>
+        <li><a href="vehiculos.php">Vehículos</a></li>
         <li><a href="equipamiento.php">Equipamiento</a></li>
         <li><a href="servicios.php">Servicios</a></li>
         <li class="current"><a href="#">Contacto</a></li>
@@ -79,7 +80,7 @@
       </div>
     </div>
   </section>
-  <footer>Salguero & Fénix &copy; 2016 | <a href="#">Privacy Policy</a> | Design by: <a href="http://www.templatemonster.com/">TemplateMonster.com</a></footer>
+  <footer>Salguero & Phoenix &copy; 2016 | <a href="#">Privacy Policy</a> | Design by: <a href="http://www.templatemonster.com/">TemplateMonster.com</a></footer>
 </div>
 </body>
 </html>

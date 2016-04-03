@@ -49,14 +49,20 @@ ul.list-2 li a:hover {text-decoration:none;}
 .extra-wrap {overflow:hidden;}
 .fleft {float:left;}
 .fright {float:right;}
-.img-indent {float:left; margin:6px 20px 0px 0;}	
+.img-indent {
+	float:unset; 
+	margin:6px 20px 0px 0;
+}	
 .img-indent-2 {float:left; margin:0px 20px 0px 0;}	
 .img-indent-3 {float:left; margin:7px 20px 0px 0;}
 .line-height {line-height:18px;}
 .last {margin-right:0px !important; padding-right:0px !important;}
 .align-r {text-align:right;}
 .align-c {text-align:center;}
-.upper {text-transform:uppercase;}
+.upper {
+	text-transform:uppercase;
+	/*text-align: justify;*/
+}
 
 .top-1 {margin-top:23px;}
 .top-2 {margin-top:20px;}

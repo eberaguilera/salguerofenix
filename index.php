@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Car Repair</title>
+<title>Salguero & Phoenix</title>
 <meta charset="utf-8">
 <link rel="stylesheet" type="text/css" media="screen" href="css/reset.css">
 <link rel="stylesheet" type="text/css" media="screen" href="css/style.css">
@@ -65,8 +65,10 @@ $(function () {
         <li class="current"><a href="#" class="home"><img src="images/home.jpg" alt=""></a></li>
         <li><a href="quienes_somos.php">Quienes Somos</a></li>
         <li><a href="novedades.php">Novedades</a></li>
+        <li><a href="vehiculos.php">Vehículos</a></li>
         <li><a href="equipamiento.php">Equipamiento</a></li>
         <li><a href="servicios.php">Servicios</a></li>
+        <li><a href="contacto.php">Contacto</a></li>
         <!--  <ul>
             <li><a href="">Submenu1</a></li>
             <li><a href="">Submenu2</a></li>
@@ -81,7 +83,6 @@ $(function () {
             </li>
           </ul> 
         -->
-        <li><a href="contacto.php">Contacto</a></li>
       </ul>
       <div class="clear"></div>
     </nav>
@@ -90,25 +91,32 @@ $(function () {
     <div class="slider-block">
       <div class="slider">
         <ul class="items">
+          <li><img src="images/slide-0.jpg" alt="">
+            <!-- <div class="banner">
+              <div><span>Autobomba</span><strong>Pierce Arrow 1985</strong>
+                <p>Cabina cerrada de 4 puertas con asientos para 6 bomberos.Pierce numero de identificación: E2507-02.</p>
+                <a href="#" class="button">Leer Más</a></div>
+            </div> -->
+          </li>
           <li><img src="images/slide-1.jpg" alt="">
             <div class="banner">
-              <div><span>Ford</span><strong>Сiriure dolor nhendrerit</strong>
-                <p>Nam liber tempor cum soluta nobis eleifenoption congue nigfif аil imperdiet doming id quod mazim placerat facer. Lorjem ipsum dolor sit amet, consecer adipiscing elit.</p>
-                <a href="#" class="button">Read More</a></div>
+              <div><span>Autobomba</span><strong>Pierce Arrow 1985</strong>
+                <p>Cabina cerrada de 4 puertas con asientos para 6 bomberos.Pierce numero de identificación: E2507-02.</p>
+                <a href="#" class="button">Leer Más</a></div>
             </div>
           </li>
           <li><img src="images/slide-2.jpg" alt="">
             <div class="banner">
-              <div><span>Maserati GT</span><strong>Vulputate velit esse</strong>
-                <p>sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis.</p>
-                <a href="#" class="button">Read More</a></div>
+              <div><span>Urbanas</span><strong>Ford Cargo 1722</strong>
+                <p><strong>B.U.P. -  4000</strong><br>Tanque de 4000 Lts.<br>Bomba Ziegler de alta y baja.<br>Tres persianas por lateral.</p>
+                <a href="#" class="button">Leer Más</a></div>
             </div>
           </li>
           <li><img src="images/slide-3.jpg" alt="">
             <div class="banner">
-              <div><span>Honda HSC</span><strong>Molestie consequat vel</strong>
-                <p>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit.</p>
-                <a href="#" class="button">Read More</a></div>
+              <div><span>Urbanas</span><strong>Mercedes Benz 710</strong>
+                <p><strong>B.U.L. -  2000</strong><br>Tanque de 2000 Lts.<br>Módulo de personal para cuatro personas sentadas con sus respectivos soportes para equipos de respiración autónoma.</p>
+                <a href="#" class="button">Leer Más</a></div>
             </div>
           </li>
         </ul>
@@ -171,7 +179,7 @@ $(function () {
         <a href="#" class="button-2">Read More</a> </div>
     </div>
   </section>
-  <footer>Salguero & Fénix &copy; 2016 | <a href="#">Privacy Policy</a> | Design by: <a href="http://www.templatemonster.com/">TemplateMonster.com</a></footer>
+  <footer>Salguero & Phoenix &copy; 2016 | <a href="#">Privacy Policy</a> | Design by: <a href="http://www.templatemonster.com/">TemplateMonster.com</a></footer>
 </div>
 </body>
 </html>
