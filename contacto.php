@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Car Repair | Locations</title>
+<title>Salguero & Phoenix :: Contacto</title>
 <meta charset="utf-8">
 <link rel="stylesheet" type="text/css" media="screen" href="css/reset.css">
 <link rel="stylesheet" type="text/css" media="screen" href="css/style.css">
@@ -19,7 +19,7 @@
 <div class="bg">
   <header>
     <div class="main wrap">
-      <h1><a href="index.php"><img src="images/logo.png" alt=""></a></h1>
+      <h1><a href="index.php"><img src="images/logo.jpg" alt=""></a></h1>
       <p><span>(011) 4624-2292 <br>(011) 1559524845</span>phoenixysalguero@yahoo.com.ar</p>
     </div>
     <nav>
@@ -34,10 +34,10 @@
       <ul class="menu">
         <li><a href="index.php" class="home"><img src="images/home.jpg" alt=""></a></li>
         <li><a href="quienes_somos.php">Quienes Somos</a></li>
-        <li><a href="novedades.php">Novedades</a></li>
-        <li><a href="vehiculos.php">Vehículos</a></li>
-        <li><a href="equipamiento.php">Equipamiento</a></li>
-        <li><a href="servicios.php">Servicios</a></li>
+        <li><a href="#">Novedades</a></li>
+        <li><a href="#">Vehículos</a></li>
+        <li><a href="#">Equipamiento</a></li>
+        <li><a href="#">Servicios</a></li>
         <li class="current"><a href="#">Contacto</a></li>
       </ul>
       <div class="clear"></div>

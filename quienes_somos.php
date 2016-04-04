@@ -19,8 +19,8 @@
 <div class="bg">
   <header>
     <div class="main wrap">
-      <h1><a href="index.html"><img src="images/logo.png" alt=""></a></h1>
-      <p>8901 Marmora, Glasgow <span>8 (800) 552 5975</span></p>
+      <h1><a href="index.php"><img src="images/logo.jpg" alt=""></a></h1>
+      <p><span>(011) 4624-2292 <br>(011) 1559524845</span>phoenixysalguero@yahoo.com.ar</p>
     </div>
     <nav>
     <!--
@@ -36,10 +36,10 @@
       <ul class="menu">
         <li><a href="index.php" class="home"><img src="images/home.jpg" alt=""></a></li>
         <li class="current"><a href="#">Quienes Somos</a></li>
-        <li><a href="novedades.php">Novedades</a></li>
-        <li><a href="vehiculos.php">Vehículos</a></li>
-        <li><a href="equipamiento.php">Equipamiento</a></li>
-        <li><a href="servicios.php">Servicios</a></li>
+        <li><a href="#">Novedades</a></li>
+        <li><a href="#">Vehículos</a></li>
+        <li><a href="#">Equipamiento</a></li>
+        <li><a href="#">Servicios</a></li>
         <li><a href="contacto.php">Contacto</a></li>
       </ul>
       <div class="clear"></div>
@@ -63,7 +63,7 @@
 			Desde hace 17 años, PHOENIX Y SALGUERO adosó a su línea de productos, la fabricación de herramientas de corte y separación hidráulicas, muy utilizadas por los Bomberos en la extracción de personas en los casos de accidentes vehiculares. Estas herramientas son muy valoradas por los Bomberos Voluntarios de la Argentina, siendo la marca nacional más vendida y prestigiosa del mercado nacional.</p>
           </div>
         </div>
-        <h2 class="top-1 p3">Equipo</h2>
+        <!-- <h2 class="top-1 p3">Equipo</h2>
         <p class="upper">voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit.</p>
         <div class="box-4">
           <div> <img src="images/page2-img2.jpg" alt=""> <a href="#" class="link">James Willis</a>
@@ -76,7 +76,7 @@
             <p>Aenean nec eros. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices.</p>
           </div>
         </div>
-        <a href="#" class="button">Leer Más</a> </div>
+        <a href="#" class="button">Leer Más</a>  --></div>
       <div class="sub-page-right">
         <div class="shadow bot-1">
           <h2 class="p2">Misión</h2>
@@ -84,8 +84,8 @@
           <p class="upper">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero.</p>
         </div>
         <div class="box-5">
-          <h2 class="p2">Especialización</h2>
-          <p class="text-3 upper">AUTOMOTIVE INDUSTRY</p>
+          <h2 class="p2">Visión</h2>
+          <p class="text-3 upper"></p>
           <img src="images/page2-img5.jpg" alt="">
           <p class="upper">Aenean nec er Vestibulum ante ipsum primis in faucibus:</p>
           <ul class="list-1">

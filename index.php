@@ -47,7 +47,7 @@ $(function () {
 <div class="bg">
   <header>
     <div class="main wrap">
-      <h1><a href="index.php"><img src="images/logo.png" alt=""></a></h1>
+      <h1><a href="index.php"><img src="images/logo.jpg" alt=""></a></h1>
       <p><span>(011) 4624-2292 <br>(011) 1559524845</span>phoenixysalguero@yahoo.com.ar</p>
     </div>
     <nav>
@@ -64,10 +64,10 @@ $(function () {
       <ul class="menu">
         <li class="current"><a href="#" class="home"><img src="images/home.jpg" alt=""></a></li>
         <li><a href="quienes_somos.php">Quienes Somos</a></li>
-        <li><a href="novedades.php">Novedades</a></li>
-        <li><a href="vehiculos.php">Vehículos</a></li>
-        <li><a href="equipamiento.php">Equipamiento</a></li>
-        <li><a href="servicios.php">Servicios</a></li>
+        <li><a href="#">Novedades</a></li>
+        <li><a href="#">Vehículos</a></li>
+        <li><a href="#">Equipamiento</a></li>
+        <li><a href="#">Servicios</a></li>
         <li><a href="contacto.php">Contacto</a></li>
         <!--  <ul>
             <li><a href="">Submenu1</a></li>
@@ -114,8 +114,8 @@ $(function () {
           </li>
           <li><img src="images/slide-3.jpg" alt="">
             <div class="banner">
-              <div><span>Urbanas</span><strong>Mercedes Benz 710</strong>
-                <p><strong>B.U.L. -  2000</strong><br>Tanque de 2000 Lts.<br>Módulo de personal para cuatro personas sentadas con sus respectivos soportes para equipos de respiración autónoma.</p>
+              <div><span>Urbanas</span><strong>Ford 4000</strong>
+                <p><strong>B.U.L. -  1500</strong><br>Tanque 1.500 Lts.<br>Bomba Salguero & Phoenix de presión intermedia.<br>Módulo de personal para...</p>
                 <a href="#" class="button">Leer Más</a></div>
             </div>
           </li>
@@ -126,25 +126,25 @@ $(function () {
   <section id="content">
     <div class="block-1 box-1">
       <div> <img src="images/page1-img1.jpg" alt="">
-        <p class="text-1">Schedule <strong>Services</strong></p>
-        <p class="upper"><a href="#" class="link">Click here</a> for more info about this free website templates  by TemplateMonster.com.</p>
-        <a href="#" class="button">Read More</a> </div>
+        <p class="text-1"><strong>Vehículos</strong></p>
+        <p class="upper"><a href="#" class="link"></a>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
+        <a href="#" class="button">Ver</a> </div>
       <div> <img src="images/page1-img2.jpg" alt="">
-        <p class="text-1">Preventive <strong>Maintenance</strong></p>
-        <p class="upper">This website template is optimized for 1280X1024 screen res. It is also XHTML & CSS valid.</p>
-        <a href="#" class="button">Read More</a> </div>
+        <p class="text-1"><strong>Equipamiento</strong></p>
+        <p class="upper">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
+        <a href="#" class="button">Ver</a> </div>
       <div> <img src="images/page1-img3.jpg" alt="">
-        <p class="text-1">Repair <strong>Services</strong></p>
-        <p class="upper">The PSD source files of this template are available for free for the registered members.</p>
-        <a href="#" class="button">Read More</a> </div>
+        <p class="text-1"><strong>Indumentaria</strong></p>
+        <p class="upper">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
+        <a href="#" class="button">Ver</a> </div>
       <div class="last"> <img src="images/page1-img4.jpg" alt="">
-        <p class="text-1">Tire & Wheel <strong>Services</strong></p>
-        <p class="upper">Feel free to get this free web template created  by Template Monster Team!</p>
-        <a href="#" class="button">Read More</a> </div>
+        <p class="text-1"><strong>Herramientas</strong></p>
+        <p class="upper">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
+        <a href="#" class="button">Ver</a> </div>
     </div>
     <div class="block-2 wrap pad-2">
       <div class="box-2">
-        <h2 class="clr-1">Reviews</h2>
+        <h2 class="clr-1">Nuestros clientes</h2>
         <div class="comments">
           <div> “Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat.”
             <div class="comments-corner"></div>
@@ -157,7 +157,7 @@ $(function () {
           <a href="#">vulputate velit</a> </div>
       </div>
       <div class="box-3">
-        <h2 class="clr-1">Our Services</h2>
+        <h2 class="clr-1">Nuestros Servicios</h2>
         <div class="wrap">
           <ul class="list-1">
             <li><a href="#">Consetetur sadipscing</a></li>
@@ -176,7 +176,7 @@ $(function () {
             <li><a href="#">tempor invidunt ut labore</a></li>
           </ul>
         </div>
-        <a href="#" class="button-2">Read More</a> </div>
+        <a href="#" class="button-2">Leer Más</a> </div>
     </div>
   </section>
   <footer>Salguero & Phoenix &copy; 2016 | <a href="#">Privacy Policy</a> | Design by: <a href="http://www.templatemonster.com/">TemplateMonster.com</a></footer>
