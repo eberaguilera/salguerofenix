@@ -6,6 +6,7 @@
 <link rel="stylesheet" type="text/css" media="screen" href="css/reset.css">
 <link rel="stylesheet" type="text/css" media="screen" href="css/style.css">
 <link rel="stylesheet" type="text/css" media="screen" href="css/slider.css">
+<link rel="stylesheet" type="text/css" media="screen" href="css/menu-submenu.css"><!-- nuevo archivo de CSS -->
 <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:700,300' rel='stylesheet' type='text/css'>
 <script src="js/jquery-1.7.min.js"></script>
 <script src="js/jquery.easing.1.3.js"></script>
@@ -35,6 +36,27 @@ $(function () {
         $("#slider .next").css("right", "55px")
     }
 })
+
+/*Aca empieza las funciones qeu se agregaron*/
+
+
+function vermenu(id){
+document.getElementById("menu_"+id).style.display="block";
+}
+function novermenu(id){
+document.getElementById("menu_"+id).style.display="none";
+}
+
+function versubmenu(id){
+document.getElementById("submenu_"+id).style.display="block";
+}
+function noversubmenu(id){
+document.getElementById("submenu_"+id).style.display="none";
+}
+
+/*Aca termina las funciones qeu se agregaron*/
+
+
 </script>
 <!--[if lt IE 9]>
 <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
