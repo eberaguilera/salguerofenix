@@ -64,6 +64,7 @@ function init()
 	
 	//Sub Menu for 1th Main Menu Item ("Varios"):
 	menus[7] = new menu(160, "vertical", 0, 0, -20, 2, "ff9933", "ffffff", "Verdana,Helvetica", 8, "", "", "FFFFFF", "cc3300", 1, "gray", 3, 62, false, true, false, true, 5, true, 4, 4, "gray");
+	menus[7].addItem("equipamiento.html", "", 20, "left", "Equipamiento", 0);	
 	menus[7].addItem("", "", 20, "left", "Bombas", 14);	
 	menus[7].addItem("", "", 20, "left", "Motobombas", 8);
     menus[7].addItem("mochilas_forestales.htm", "", 20, "left", "Mochilas Forestales", 0);
